@@ -1,0 +1,2 @@
+# bored
+website when bored
